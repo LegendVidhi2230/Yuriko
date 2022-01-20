@@ -550,9 +550,9 @@ __help__ = f"""
 *What is SpamWatch?*
 `SpamWatch maintains a large constantly updated ban-list of spambots trolls bitcoin spammers and unsavoury characters`
 `Constantly help banning spammers off from your group automatically So you wont have to worry about spammers storming your group.`
-*Note:* `Users can appeal spamwatch bans at` @DeeCodeBots
+*Note:* `Users can appeal spamwatch bans at` @SophiaOp_Bot
 
-*✗ Pᴏᴡᴇʀᴇᴅ 💕 Bʏ: Tᴇᴀᴍ DᴇCᴏᴅᴇ!*
+*`𓆩ι кησω𓆪_𓆩𓆩🖤✨𓆪𓆪`*
 """
 
 GBAN_HANDLER = CommandHandler("gban", gban, run_async=True)
