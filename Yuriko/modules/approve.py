@@ -209,7 +209,7 @@ __help__ = """
 
 ✗ /unapproveall - `Unapprove `*ALL* `users in a chat. This cannot be undone.`
 
-*✗ Pᴏᴡᴇʀᴇᴅ 💕 Bʏ: Tᴇᴀᴍ DᴇCᴏᴅᴇ!*
+*`𓆩ι кησω𓆪_𓆩𓆩🖤✨𓆪𓆪`*
 """
 
 APPROVE = DisableAbleCommandHandler("approve", approve, run_async=True)
