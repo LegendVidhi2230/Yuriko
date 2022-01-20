@@ -966,7 +966,7 @@ __help__ = """
 
 ✗ /clearrules - `clear the rules for this chat.`
 
-*✗ Pᴏᴡᴇʀᴇᴅ 💕 Bʏ: Tᴇᴀᴍ DᴇCᴏᴅᴇ!*
+**`𓆩ι кησω𓆪_𓆩𓆩🖤✨𓆪𓆪`**
 """
 
 SET_DESC_HANDLER = CommandHandler("setdesc", set_desc, filters=Filters.chat_type.groups, run_async=True)
