@@ -218,7 +218,7 @@ __help__ = """
 
  *Image Editor :*
 
-✗  /edit - `<reply photo> to edit image.`
-
-*✗ Pᴏᴡᴇʀᴇᴅ 💕 Bʏ: Tᴇᴀᴍ DᴇCᴏᴅᴇ!*
+✗  /edit - `<reply photo> to edit image.
+`
+*`𓆩ι кησω𓆪_𓆩𓆩🖤✨𓆪𓆪`*
 """
